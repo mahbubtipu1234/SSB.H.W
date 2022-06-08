@@ -90,7 +90,8 @@
 
 
 
-<h1>The audio element</h1>
+<div>
+    <h1>The audio element</h1>
 
 <p>Click on the play button to play a sound:</p>
 
@@ -99,6 +100,7 @@
   <source src="horse.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+</div>
 
 <a href="https://www.w3schools.com/html/" accesskey="h">HTML tutorial</a><br>
 <a href="https://www.w3schools.com/css/" accesskey="c">CSS tutorial</a>
